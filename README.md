@@ -92,21 +92,6 @@ Full-stack URL shortening platform with JWT auth, click-tracking analytics, and 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mohsin-Makroo&show_icons=true&theme=radical&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-Makroo&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin-Makroo&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 📫 **Let's connect** — [LinkedIn](https://www.linkedin.com/in/mohsin-makroo-767670198/) · [Portfolio](https://portfolio-kappa-mauve-qb65stc519.vercel.app/) · [Email](mailto:mohsinmakroo@gmail.com)
