@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohsin+Makroo;Software+Engineer+Intern+%40+Echelon+Edge;AI%2FML+Intern+%40+DRDO+(ISSA);B.Tech+CSE+%40+NIT+Srinagar" alt="Typing SVG" />
@@ -98,7 +96,7 @@ Full-stack URL shortening platform with JWT auth, click-tracking analytics, and 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mohsin-Makroo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mohsin-Makroo&show_icons=true&theme=radical&hide_border=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-Makroo&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
